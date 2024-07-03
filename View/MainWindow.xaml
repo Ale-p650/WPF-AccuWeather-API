@@ -1,0 +1,66 @@
+﻿<Window x:Class="WpfApp1.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1.View"
+        xmlns:vm="clr-namespace:WpfApp1.ViewModel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="640" Width="440">
+    
+    <Window.Resources>
+        <vm:ClimaViewModel x:Key="vm"></vm:ClimaViewModel>
+    </Window.Resources>
+    
+    <Grid DataContext="{StaticResource vm}">
+        
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.395*"></RowDefinition>
+            <RowDefinition Height="2.5*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <StackPanel Background="#e0e0e0" Grid.Row="0">
+            <Label FontFamily="Arial" Margin="20,10"> Introduzca Ciudad </Label>
+
+            <WrapPanel>
+             <TextBox  MinWidth="150" Margin="30,-10" Text="{Binding Query, Mode=TwoWay , UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <Button Background="Beige" Height="19" Width="100" Margin="0,-20" Content="BUSCAR" Command="{Binding cb}" CommandParameter="{Binding Query}"/>
+            
+            </WrapPanel>
+            
+        </StackPanel>
+        
+        <StackPanel  Grid.Row="1">
+            <ListView  x:Name="lista" ItemsSource="{Binding Ciudades}" SelectedValue="{Binding miCiudad}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid >
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                                <ColumnDefinition MinWidth="150" ></ColumnDefinition>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock  Grid.Column="0" Text="{Binding LocalizedName}"/>
+                            <TextBlock HorizontalAlignment="Left" Grid.Column="2" Text="{Binding Country.LocalizedName}"/>
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackPanel>
+        
+
+
+        <Grid DataContext="{Binding miClima}" Background="Aqua" Grid.Row="2" Height="130" >
+            <TextBlock  Margin="20,10" Foreground="White" FontSize="39" FontFamily="Andalus" DataContext="{StaticResource vm}" Text="{Binding miCiudad.LocalizedName }"></TextBlock>
+            <TextBlock  Margin="30,70,0,0" Foreground="White" FontSize="29" FontFamily="Andalus" Text="{Binding WeatherText}"></TextBlock>
+            <TextBlock  Margin="280,40,0,0" Foreground="White" FontSize="40" FontFamily="Andalus" Text="{Binding Temperature.Metric.Value, StringFormat={}{0}°C}"></TextBlock>
+        </Grid>
+
+        
+
+        
+        
+    </Grid>
+</Window>

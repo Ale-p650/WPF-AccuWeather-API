@@ -1,0 +1,48 @@
+C:\Users\Usuario\Desktop\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.exe
+C:\Users\Usuario\Desktop\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.deps.json
+C:\Users\Usuario\Desktop\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\Usuario\Desktop\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.dll
+C:\Users\Usuario\Desktop\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.pdb
+C:\Users\Usuario\Desktop\WpfApp1\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\WpfApp1\obj\Debug\net7.0-windows\View\MainWindow.g.cs
+C:\Users\Usuario\Desktop\WpfApp1\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Usuario\Desktop\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\Usuario\Desktop\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\Usuario\Desktop\WpfApp1\obj\Debug\net7.0-windows\View\MainWindow.baml
+C:\Users\Usuario\Desktop\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.g.resources
+C:\Users\Usuario\Desktop\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.CopyComplete
+C:\Users\Usuario\Desktop\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.dll
+C:\Users\Usuario\Desktop\WpfApp1\obj\Debug\net7.0-windows\refint\WpfApp1.dll
+C:\Users\Usuario\Desktop\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.pdb
+C:\Users\Usuario\Desktop\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\WpfApp1\obj\Debug\net7.0-windows\ref\WpfApp1.dll
+C:\Users\Usuario\Desktop\WpfApp1\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Programación\Visual Studio\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.exe
+D:\Programación\Visual Studio\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.deps.json
+D:\Programación\Visual Studio\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.runtimeconfig.json
+D:\Programación\Visual Studio\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.dll
+D:\Programación\Visual Studio\WpfApp1\bin\Debug\net7.0-windows\WpfApp1.pdb
+D:\Programación\Visual Studio\WpfApp1\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\Programación\Visual Studio\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\Programación\Visual Studio\WpfApp1\obj\Debug\net7.0-windows\View\MainWindow.g.cs
+D:\Programación\Visual Studio\WpfApp1\obj\Debug\net7.0-windows\App.g.cs
+D:\Programación\Visual Studio\WpfApp1\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Programación\Visual Studio\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.cache
+D:\Programación\Visual Studio\WpfApp1\obj\Debug\net7.0-windows\WpfApp1_MarkupCompile.lref
+D:\Programación\Visual Studio\WpfApp1\obj\Debug\net7.0-windows\View\MainWindow.baml
+D:\Programación\Visual Studio\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.g.resources
+D:\Programación\Visual Studio\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\Visual Studio\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\Programación\Visual Studio\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.AssemblyInfo.cs
+D:\Programación\Visual Studio\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Programación\Visual Studio\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.CopyComplete
+D:\Programación\Visual Studio\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.dll
+D:\Programación\Visual Studio\WpfApp1\obj\Debug\net7.0-windows\refint\WpfApp1.dll
+D:\Programación\Visual Studio\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.pdb
+D:\Programación\Visual Studio\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.genruntimeconfig.cache
+D:\Programación\Visual Studio\WpfApp1\obj\Debug\net7.0-windows\ref\WpfApp1.dll
